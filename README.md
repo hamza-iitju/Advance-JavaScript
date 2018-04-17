@@ -1,2 +1,3 @@
-# Advance-JavaScript
-This course is included with advance JavaScript for that person who want to learn deep in JS
+# JavaScript: Understanding the weird parts by Anthony Alicea Udemy
+
+JS The weird parts Source code by Anthony Alicea Udemy
