@@ -1,16 +1,18 @@
-# Javascript Programming Language
+# Introduction
+
+## Javascript Programming Language
 
 	DON'T IMITATE
 
-# SETUP:
+## SETUP:
 
 	Any Editor and Browser
 
-# BIG WORD ALERT
+## BIG WORD ALERT
 
 	Definition and more detail
 
-# Understanding Frameworks and the weird part
+## Understanding Frameworks and the weird part
 
 	Frameworks: jQuery and AngularJS
 
